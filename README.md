@@ -8,23 +8,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here you'll find my featured projects that showcase my skills in developing strong data driven visualizations. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi I'm Ashwitha!  I am a Master's student at Carnegie Mellon University studying Information Systems Management. I have a background in data analytics, operations, and product management. I am currently looking for opportunities in Product Management, Data Analytics, and Technical Consulting. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Post graduation, I hope to pursue a career in Product Management. Therefore, from this course I hope to learn the following:  
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Turning analysis into a clear narrative
+2. Designing visualizations that fit the audience and decision 
+3. Avoiding misleading data
 
 # Portfolio
 

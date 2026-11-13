@@ -79,6 +79,7 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 ## References
 Makeover Makeup: Original data visualization
+
 Chartmetric: Source article which provided more background information on the data visualization and the intended audience
 
 ## AI acknowledgements

@@ -95,7 +95,9 @@ Overall, for this project I will be incorporating geographic and demographic dat
 For my final project I plan to use Tableau to create data visualisations and Shorthand for the storytelling. I plan to use the datasets I collected to create those visualizations to compare the geographic and demographic data in Pittsburgh. Using Shorthand, I plan to incorporate those visualizations along with my story structure in order for the audience to understand and interact with the story I am telling.
 
 ## References
-_List any references you used here._
+Library Locations - CKAN. https://data.wprdc.org/dataset/libraries. Accessed 18 Nov. 2026.
+Neighborhoods - CKAN. https://data.wprdc.org/dataset/neighborhoods2. Accessed 18 Nov. 2026.
+2009-13 and 2019-23 American Community Survey Estimates for City of Pittsburgh Neighborhoods - CKAN. https://data.wprdc.org/dataset/2009-13-and-2019-23-american-community-survey-estimates-for-city-of-pittsburgh-neighborhoods. Accessed 18 Nov. 2026.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+ChatGPT: Used for brainstorming and flushing out project idea, as well as helped with brainstorming data visuals and searching for datasets.  

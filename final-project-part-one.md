@@ -96,8 +96,12 @@ For my final project I plan to use Tableau to create data visualisations and Sho
 
 ## References
 Library Locations - CKAN. https://data.wprdc.org/dataset/libraries. Accessed 18 Nov. 2026.
+
 Neighborhoods - CKAN. https://data.wprdc.org/dataset/neighborhoods2. Accessed 18 Nov. 2026.
+
 2009-13 and 2019-23 American Community Survey Estimates for City of Pittsburgh Neighborhoods - CKAN. https://data.wprdc.org/dataset/2009-13-and-2019-23-american-community-survey-estimates-for-city-of-pittsburgh-neighborhoods. Accessed 18 Nov. 2026.
 
 ## AI acknowledgements
 ChatGPT: Used for brainstorming and flushing out project idea, as well as helped with brainstorming data visuals and searching for datasets.  
+
+ZoteroBib: Used for APA citations

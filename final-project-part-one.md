@@ -64,8 +64,17 @@ Ultimately the story I want to tell through this project is regarding the relati
 2. As a Pittsburgh community member, I want to better understand neighborhoods with less free book resources so I can identify where future resources should be available.
    
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+> Visual #1: 
+![Carnegie Map of Libraries](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/CarneigeLibraryLocations.jpg?raw=true)
 
+> Visual #2:
+![15 Min. Walk](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/%25ofResidents15minWalk.jpg?raw=true)
+
+> Visual #3:
+![Median Household Income](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/MedianHousehold.jpg?raw=true)
+
+> Visual #4:
+![Median Household Income](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/LessAccessMap.jpg?raw=true)
 
 
 # The data

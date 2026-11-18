@@ -25,7 +25,7 @@ For this assignment, redesigned a Makeover Monday visualization. My process incl
 Using public library locations and neighborhood demographic data, I will investigate whether Pittsburgh residents have equal access to free books and identify which communities may be left out. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part III](final-project-part-three)
 
 ---
 

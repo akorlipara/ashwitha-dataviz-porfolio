@@ -77,23 +77,22 @@ Ultimately the story I want to tell through this project is regarding the relati
 ![Median Household Income](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/LessAccessMap.jpg?raw=true)
 
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+# The data 
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
+| Name | URL | Source |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Pittsburgh Public Library Locations     | https://data.wprdc.org/dataset/libraries    | Western Pennsylvania Regional Data Center            |
+| Pittsburgh Neighborhood Boundaries     | https://data.wprdc.org/dataset/neighborhoods2     | Western Pennsylvania Regional Data Center            |
+| Pittsburgh Neighborhood Demographics     | https://data.wprdc.org/dataset/2009-13-and-2019-23-american-community-survey-estimates-for-city-of-pittsburgh-neighborhoods    | Western Pennsylvania Regional Data Center            |
+
+The first dataset I will work with for this project are the locations of public libraries in Pittsburgh. The data source I will be using for public libraries comes from the Western Pennsylvania Regional Data Center. This dataset comes from the Carnegie Library of Pittsburgh branches. 
+
+The next two sets of data I will be working with for this project are related to Pittsburgh neighborhoods. One dataset focuses on the neighborhood boundaries and the other is related to neighborhood demographics. The source for both is the Western Pennsylvania Regional Data Center, with the neighborhood boundaries set coming from the City of Pittsburgh and the demographics set coming from the University of Pittsburgh. 
+
+Overall, for this project I will be incorporating geographic and demographic data in order to examine how accessible free books are for varying neighborhoods in the Pittsburgh area. These datasets will allow me to compare the different neighborhoods in order to identify patterns as to why certain communities are being underserved.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For my final project I plan to use Tableau to create data visualisations and Shorthand for the storytelling. I plan to use the datasets I collected to create those visualizations to compare the geographic and demographic data in Pittsburgh. Using Shorthand, I plan to incorporate those visualizations along with my story structure in order for the audience to understand and interact with the story I am telling.
 
 ## References
 _List any references you used here._

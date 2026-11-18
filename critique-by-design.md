@@ -71,8 +71,6 @@ I originally chose this data visualization because I love music and closely foll
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
-
 ![Solution](https://github.com/akorlipara/ashwitha-dataviz-porfolio/blob/main/Solution.png?raw=true)
 
 <ins>Summary:</ins> Overall I think that this process worked successfully in redesigning this data visualization. The individual critique set me up well for creating my initial sketch by having me go through many criteria, and see what needed to be changed. Next, I would say the interviews were a crucial element in my final redesign solution, as I was able to get suggestions of where my updated redesign was still lacking. The feedback I got, especially from the Arts Management student, was highly valuable and allowed me to develop a final solution that is much clearer and cohesive to an observer. 

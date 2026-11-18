@@ -22,7 +22,7 @@ For these assignments, I utilized Tableau to create data visualizations.
 For this assignment, redesigned a Makeover Monday visualization. My process included personal critique, individual redesign, gathering feedback, and using a GenAI tool for a final redesign.   
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Using public library locations and neighborhood demographic data, I will investigate whether Pittsburgh residents have equal access to free books and identify which communities may be left out. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)

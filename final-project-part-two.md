@@ -1,30 +1,28 @@
 | [home page](https://akorlipara.github.io/ashwitha-dataviz-porfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+[Shorthand](https://carnegiemellon.shorthandstories.com/copy/index.html)
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+ The target audience for this project are Pittsburgh residents who could use public libraries. Additionally, the target audience includes individuals who are interested in accessibility to literary resources.
+
+**Identifying representative individuals to interview:**
+1. A regular library user
+2. An individual who never uses the library
+3. A community member who cares about this cause
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|To see what the observer initially gets from my visuals and see where they fall flat     | Do readers understand what the four visuals are showing?                 |
+|To see if the observer understands that access is not equal and that income does not explain that gap     | Does the story lead them to understand the central idea?                 |
+|To gather feedback to make the story more clear to the observer     | What is confusing about the visuals and or the wording?                 |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.

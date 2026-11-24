@@ -19,21 +19,18 @@
 
 | Goal | Questions to Ask |
 |------|------------------|
-|To see what the observer initially gets from my visuals and see where they fall flat     | Do readers understand what the four visuals are showing?                 |
-|To see if the observer understands that access is not equal and that income does not explain that gap     | Does the story lead them to understand the central idea?                 |
+|To see what the observer initially gets from my visuals and see where they fall flat     | Do you understand what the four visuals are showing?                 |
+|To see if the observer understands that access is not equal and that income does not explain that gap     | What do you think is the central theme?                 |
 |To gather feedback to make the story more clear to the observer     | What is confusing about the visuals and or the wording?                 |
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Do you understand what the four visuals are showing? | Insightful feedback            |             |             |
+| What do you think is the central theme?                        |                                |             |             |
+| What is confusing about the visuals and or the wording?                         |                                |             |             |
 
 
 # Identified changes for Part III

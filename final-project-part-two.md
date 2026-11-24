@@ -50,14 +50,9 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+ChatGPT: Helped me navigate how to build my visuals in Tableau through problem solving and csv creation for walking distance. Also helped improve my flow when drafting my story in Shorthand. 
 

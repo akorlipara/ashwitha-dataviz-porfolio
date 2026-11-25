@@ -2,6 +2,8 @@
 
 # Wireframes / storyboards
 
+Here is the link to my Shorthand which incorporates the story I have outlined in Part 1. In this you can find the story progression, along with the sketches I built into interactive data visualizations using Tableau.
+
 [Shorthand](https://carnegiemellon.shorthandstories.com/copy/index.html)
 
 # User research 
@@ -26,12 +28,26 @@
 
 ## Interview findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Do you understand what the four visuals are showing? | Insightful feedback            |             |             |
-| What do you think is the central theme?                        |                                |             |             |
-| What is confusing about the visuals and or the wording?                         |                                |             |             |
+Interview #1: Regular Library User (MAM '28)
+1. All four visuals are easy to understand and follow along with how they contribute to the main argument that there should be more libraries that are easily accessible in Pittsburgh neighborhoods.
+2. The story does help lead me to the central idea of the article. The short paragraphs next to each visual help contextualize each visual in terms of the central idea and helped make sure I took away the necessary information.
+3. The second visual was a little confusing because at first glance it does not seem like there is a large difference between the neighborhoods in the percentage of residents that are within a 15 min walk of a public library. Maybe flipping it would help emphasize that there are quite a few neighborhoods that do not have a public library within walking distance. Also certain design aspects of the article are... questionable. For example, the red text on top of the images is not legible. And this sentence: "These include Morningside, Stanton Heights, Lincoln Place, Swisshelm Park, Regent Square, Northview Heights and Summer Hill, could be areas for new branches," is not worded appropriately. And these two sentences are weird, I would reword them, "Pittsburgh has 19 Carnegie Library locations across 90 neighborhoods. Only 19 neighborhoods have a branch because none of them have more than one." I also think there should be further analysis on the regression analysis. While it was determined that there is a weak relationship between percentage of households in the lowest income bracket and the percentage of area within a 15 min walk of a library, why do i care? I understand that this means the the location of the library does not correlate with median household income but then what is effecting it?
 
+Interview #2: Never Uses the Library (MISM '27)
+1. First one  - shows where the different libraries are located. Second shows the percentage of residents who are within a 15-min walk to a library. The third one is a bit confusing - I understand what was trying to be displayed, but when looking at it it's a bit confusing.
+The fourth one is very clear - darker shade indicates neighborhoods with less access to public library.
+2. Central idea is that there are a good amount of neighborhoods that don't have access to free books, and income doesn't play that big of a role.
+3. For the first visual - it's hard to tell what the dots mean at first glance (until i hover over them), however, when i tried to exit out of it (it gave me an option to either keep only or exclude --> what's the point of that?. For the second one - the top of the visual shows that a good amount of neighboorhoods are pretty walkable to a library - it's not as evident which neighborhoods aren't (until i scroll).
+
+Interview #3: Former Teacher (MISM '27)
+1. First visual is good — it does break things up though because the scrolling that we do in shorthand causes it to zoom out. I also think there are more libraries — like the allegheny district libraries. If you have library card, you can see where all we can go bc it’s a TON of places. 
+Second visual is also good but also again with the scrolling. Title seems kind of wordy though. Third visual is a bit more confusing. I’m unsure how the regression line is helpful — it is not a scatterplot that yields a good line. Also I feel like the size of the bubbles and the legend for it is unhelpful. Fourth visual is good but I think switching the colors could be more intuitive — denser library access = darker colors. 
+2. I don’t super understand the story behind or the general call to action. Because there isn’t a correlation between income and access to libraries, it kinda just feels like the story is: here is the data — with no request for things to change. 
+3. I think the flow is decent aside from the lack of call to action. I will say that some of the font needs to be different, like the coloring makes it difficult to read.
+
+Interview #4: Never Uses the Library (MISM '27)
+
+Interview #5: Regular Library User (MISM '27)
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  

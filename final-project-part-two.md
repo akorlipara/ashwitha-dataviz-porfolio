@@ -58,19 +58,24 @@ Interview #5: Regular Library User (MISM '27)
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Here I have documented the changes I plan on implementing for Part 3 based on the user feedback I gathered. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-| One insight I gathered from a lot of the interviews is that the red text on top of the background images was hard to read.                                         | I plan to switch the text to white and try to use an overlay over the images into to make it easier to read.                                                                                |
-| The second insight I gathered from a lot of the interviews is that people for the most part understood the central idea but they were curious about the reasoning behind the gap.                                           | I plan to expand on the "What's Next" section with a clear call to action as to what can be further investigated by listing other possible reasons behind the gap.                                                                                | 
-| The third insight I gathered from a lot of the interviews is that the bar chart was not effective in highlighting the primary focus which is that there is a difference in equality among the neighborhoods. The interviewees started that they could not really see the difference until they scrolled.                                          | I plan to change the sorting so that the neighborhoods with the least accessibility are shown first. I also plan to only include the bottom 15 neighborhoods.                                                                                 |
-| The fourth insight I gathered is that the scatter plot is a bit confusing to some of the interviewees due to the bubble sizing and the regression because there is no relationship.           | I plan to remove the bubble sizing and drop the line because it's confusing as it shows a trend which is not present.                                                                                |
+| The first insight I gathered from a lot of the interviews is that the red text on top of the background images was hard to read.| I plan to switch the text to white and try to use an overlay over the images into to make it easier to read.|
+| The second insight I gathered from a lot of the interviews is that people for the most part understood the central idea but they were curious about the reasoning behind the gap.| I plan to expand on the "What's Next" section with a clear call to action as to what can be further investigated by listing other possible reasons behind the gap.|
+| The third insight I gathered from a lot of the interviews is that the bar chart was not effective in highlighting the primary focus which is that there is a difference in equality among the neighborhoods. The interviewees started that they could not really see the difference until they scrolled. | I plan to change the sorting so that the neighborhoods with the least accessibility are shown first. I also plan to only include the bottom 15 neighborhoods.| 
+| The fourth insight I gathered is that the scatter plot is a bit confusing to some of the interviewees due to the bubble sizing and the regression because there is no relationship.| I plan to remove the bubble sizing and drop the line because it's confusing as it shows a trend which is not present.|
+| The fifth insight I gathered from the interviews is that on the library map the dots are unclear which can become confusing to the observer. | I plan to add a legend to indicate what the dots on the map represent or to add labels directly associated with each library. | 
+| The sixth insight I gathered from my interviews is that the maps zoom out when scrolling which can became hard for the observer to navigate. | I plan to disable the zoom so that scrolling does not move the map.|
+| The seventh insight I gathered from my interviews is that there is inconsistent terms I used for the same measure which can make it confusing.| I plan to pick one term to use throughout the presentation to make it more cohensive and clear. |
+| The eighth insight I gathered from my interviews is that there may be more possible libraries. | I plan to further research this and if that is true, then I will include this limitation in my story by stating that the map only shows the Carnegie Library of Pittsburgh branches. |
 
-> ...include any final thoughts you have here. 
+Final Thoughts: 
 
-Text here!
+Across the five interviews, majority of the observers understood the central message which is that there is unequal accessibility across the 90 neighborhoods to Pittsburgh libraries and that income may not be the reason behind the gaps. I also learned that including short paragraphs describing each visual helped the reader understand them better. Finally, most of the interviewees stated that the story flow was easy to follow from start to finish. 
+
+I also gathered lots of feedback which will help me improve my story in the future. A common theme I found is that my story left the readers curious to know more specifically about the call to action and the reasoning behind the gaps. Additionally, I gathered good feedback on how to improve specific parts of my visuals to make them less confusing to the readers. 
 
 ## References
 

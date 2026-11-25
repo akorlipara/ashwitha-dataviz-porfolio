@@ -1,4 +1,4 @@
-| [home page](https://akorlipara.github.io/ashwitha-dataviz-porfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<img width="603" height="1311" alt="IMG_2683" src="https://github.com/user-attachments/assets/d01e1a57-4c5f-4287-85ae-5d7f509bba02" />| [home page](https://akorlipara.github.io/ashwitha-dataviz-porfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 
@@ -46,8 +46,15 @@ Second visual is also good but also again with the scrolling. Title seems kind o
 3. I think the flow is decent aside from the lack of call to action. I will say that some of the font needs to be different, like the coloring makes it difficult to read.
 
 Interview #4: Never Uses the Library (MISM '27)
+1. The visuals are all pretty straightforward and understandable because they clearly show distribution of resources based on different neighborhoods. 
+2. The story does lead me to understand that access to free reading resources is not equal across different areas and communities evaluating accessible walking distance to libraries. It also shows that the inequality is not caused by income, so therefore you can eliminate that factor.
+3. More investigation into what the actual reasoning behind the gap could be nice because it leaves us off with an ambiguous call to action.   
 
 Interview #5: Regular Library User (MISM '27)
+1. The visuals show Carnegie Library branch locations, 15-minute walking coverage by area, walkability vs. lower-income households (sized by population), and neighborhood access levels, and are easy to understand with clear labels and color coding.
+2. Yes, it clearly shows that walking access to library branches is uneven across Pittsburgh's neighborhoods and isn't simply explained by lower household income.
+3. Having so different terms for the same metric gets a bit confusing, and the red text on on busy background images is hard to read. 
+
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  

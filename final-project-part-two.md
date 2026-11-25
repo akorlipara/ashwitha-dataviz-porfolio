@@ -1,4 +1,4 @@
-<img width="603" height="1311" alt="IMG_2683" src="https://github.com/user-attachments/assets/d01e1a57-4c5f-4287-85ae-5d7f509bba02" />| [home page](https://akorlipara.github.io/ashwitha-dataviz-porfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://akorlipara.github.io/ashwitha-dataviz-porfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
 

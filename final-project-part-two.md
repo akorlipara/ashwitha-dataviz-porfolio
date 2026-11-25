@@ -56,8 +56,6 @@ Interview #5: Regular Library User (MISM '27)
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
 Here I have documented the changes I plan on implementing for Part 3 based on the user feedback I gathered. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
